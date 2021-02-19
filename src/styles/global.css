@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display+SC:ital@1&display=swap');
+
+header{
+    color:#8f2a2a;
+
+    text-decoration-line:line-through;
+}
+
+
+/* import ButtonFinal from '../componentes/ButtonHome/index'
+
+<ButtonFinal onClick={ () => teste() }/> */
